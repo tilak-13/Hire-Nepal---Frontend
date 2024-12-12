@@ -33,7 +33,7 @@ npm install
 
 ## Backend
 
-[Backend Repo Link](https://github.com/The-SP/Job-Portal-Backend)  
+[Backend Repo Link](https://github.com/tilak-13/Hire-Nepal---Backend)  
 You can use the link above to access the code for the backend api of the project.
 
 ## Screenshots
